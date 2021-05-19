@@ -1,0 +1,6 @@
+use_frameworks!
+target 'IJKFrameWork_Tests' do
+  pod 'IJKFrameWork', :path => '../'
+  
+  
+end
